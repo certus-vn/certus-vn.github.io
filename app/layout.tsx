@@ -11,8 +11,8 @@ import '@/styles/globals.css';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Metronic SaaS',
-    default: 'Metronic SaaS',
+    template: '%s | Certus Investment and Technology',
+    default: 'Certus Investment and Technology',
   },
 };
 

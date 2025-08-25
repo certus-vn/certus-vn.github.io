@@ -52,7 +52,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: 'Email',
-      content: 'hello@kt.com',
+      content: 'hello@certus.vn',
     },
     {
       icon: Phone,
